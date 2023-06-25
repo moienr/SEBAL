@@ -4,11 +4,15 @@
 by: `Moien Rangzan`
 moienrangzan@gmail.com
 ## Calculating Surface Radiation Balance Equation for Rn - Landsat C2 Level 1
+[Sebal_Rn_Level1.ipynb](https://github.com/moienr/SEBAL/blob/main/Sebal_Rn_Level1.ipynb)
 
 Implementaion Based on the [SEBAL IDAHO](https://www.posmet.ufv.br/wp-content/uploads/2016/09/MET-479-Waters-et-al-SEBAL.pdf)
 
 
+
 ## Calculating the ESUN values for Landsat 8 Level 2 products
+[Sebal_Reflectance_Albedo_calculation.ipynb](https://github.com/moienr/SEBAL/blob/main/sebal_Reflectance_Albedo_calculation.ipynb)
+
 Since Sebal needs ESUN and Albedo to be calulted, and these values are not provided in the L2 Products, I wrote this Notebook to better understand the derivation on these values.
 
 
