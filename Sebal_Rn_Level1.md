@@ -1,4 +1,4 @@
-# Surface Energy Balance Algorithms for Land (SEBAL) - Idaho Implementation
+# Surface Energy Balance Algorithms for Land (SEBAL) - Idaho Implementation - Evapotranspiration
 **Class of Remote Sensing of Water, Soil and Vegetation - `Dr. Saeid Hamzeh`**
 
 by: `Moien Rangzan`
